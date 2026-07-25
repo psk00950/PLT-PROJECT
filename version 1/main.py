@@ -7,7 +7,7 @@ from PySide6.QtWidgets import (
     QMessageBox,
     QGraphicsScene
 )
-
+# my first gits
 from PySide6.QtGui import QColor
 
 from parser import parse_plt
