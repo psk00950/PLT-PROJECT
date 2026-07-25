@@ -3,7 +3,7 @@ from PySide6.QtGui import (
     QPen,
     QColor
 )
-
+# prasanna gadu pani leka chesthunnadu
 from PySide6.QtWidgets import (
     QGraphicsPathItem
 )
