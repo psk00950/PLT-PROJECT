@@ -16,7 +16,7 @@ from exporter import export_scene
 from graphicsview import GraphicsView
 from toolbar import ViewerToolBar
 
-
+#i love my brain
 class MainWindow(QMainWindow):
 
     def __init__(self):
