@@ -9,7 +9,7 @@ from PySide6.QtCore import (
     Qt
 )
 
-
+#added this comment in line 12
 def mm_to_pixels(mm, dpi):
     return int(mm * dpi / 25.4)
 
