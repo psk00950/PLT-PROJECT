@@ -8,7 +8,7 @@ from PySide6.QtCore import (
     QRectF,
     Qt
 )
-
+# added this comment in line 11
 #added this comment in line 12
 def mm_to_pixels(mm, dpi):
     return int(mm * dpi / 25.4)
